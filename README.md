@@ -1,7 +1,5 @@
 ﻿# Segmentation_Inpainting
  
-## Video Link - https://youtu.be/oxt_vwTJCnc 
- 
 ## SUMMARY
 The main objective of this project was to segment a given creative of a company and recover the background from the creative. There is a segmentation model and an impainting model associated with the end to end approach.
 
